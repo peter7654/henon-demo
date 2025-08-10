@@ -1,0 +1,30 @@
+# Rust build output
+/target
+
+# Steps output directory (generated images)
+/steps
+
+# Executables and binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# IDE/project files
+*.rs.bk
+*.swp
+*.swo
+*.bak
+*.tmp
+*.png
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# JetBrains IDEs
+.idea/
+*.iml
+
+# Logs
+*.log
